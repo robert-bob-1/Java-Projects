@@ -1,0 +1,110 @@
+Time 0
+Remaining Tasks:
+(8 1 8)(6 4 7)(10 4 7)(5 5 9)(9 5 4)(3 7 6)(4 7 9)(1 8 3)(2 8 3)(7 9 8)
+[]
+[]
+[]
+[]
+[]
+Statistics  Peak Hour: 0 Average Waiting Time: NaN Average Service Time: 0.0
+
+Time 1
+Remaining Tasks:
+(6 4 7)(10 4 7)(5 5 9)(9 5 4)(3 7 6)(4 7 9)(1 8 3)(2 8 3)(7 9 8)
+Working on (8 1 8) Queue: []
+[]
+[]
+[]
+[]
+Statistics  Peak Hour: 1 Average Waiting Time: 1.0 Average Service Time: 1.0
+
+Time 2
+Remaining Tasks:
+(6 4 7)(10 4 7)(5 5 9)(9 5 4)(3 7 6)(4 7 9)(1 8 3)(2 8 3)(7 9 8)
+Working on (8 1 8) Queue: []
+[]
+[]
+[]
+[]
+Statistics  Peak Hour: 1 Average Waiting Time: 2.0 Average Service Time: 2.0
+
+Time 3
+Remaining Tasks:
+(6 4 7)(10 4 7)(5 5 9)(9 5 4)(3 7 6)(4 7 9)(1 8 3)(2 8 3)(7 9 8)
+Working on (8 1 8) Queue: []
+[]
+[]
+[]
+[]
+Statistics  Peak Hour: 1 Average Waiting Time: 3.0 Average Service Time: 3.0
+
+Time 4
+Remaining Tasks:
+(5 5 9)(9 5 4)(3 7 6)(4 7 9)(1 8 3)(2 8 3)(7 9 8)
+Working on (8 1 8) Queue: []
+Working on (6 4 7) Queue: []
+Working on (10 4 7) Queue: []
+[]
+[]
+Statistics  Peak Hour: 4 Average Waiting Time: 2.0 Average Service Time: 2.0
+
+Time 5
+Remaining Tasks:
+(3 7 6)(4 7 9)(1 8 3)(2 8 3)(7 9 8)
+Working on (8 1 8) Queue: []
+Working on (6 4 7) Queue: []
+Working on (10 4 7) Queue: []
+Working on (5 5 9) Queue: []
+Working on (9 5 4) Queue: []
+Statistics  Peak Hour: 5 Average Waiting Time: 2.2 Average Service Time: 2.2
+
+Time 6
+Remaining Tasks:
+(3 7 6)(4 7 9)(1 8 3)(2 8 3)(7 9 8)
+Working on (8 1 8) Queue: []
+Working on (6 4 7) Queue: []
+Working on (10 4 7) Queue: []
+Working on (5 5 9) Queue: []
+Working on (9 5 4) Queue: []
+Statistics  Peak Hour: 5 Average Waiting Time: 3.2 Average Service Time: 3.2
+
+Time 7
+Remaining Tasks:
+(1 8 3)(2 8 3)(7 9 8)
+Working on (8 1 8) Queue: [(3 7 6)]
+Working on (6 4 7) Queue: [(4 7 9)]
+Working on (10 4 7) Queue: []
+Working on (5 5 9) Queue: []
+Working on (9 5 4) Queue: []
+Statistics  Peak Hour: 7 Average Waiting Time: 3.2857144 Average Service Time: 4.2
+
+Time 8
+Remaining Tasks:
+(7 9 8)
+Working on (8 1 8) Queue: [(3 7 6)]
+Working on (6 4 7) Queue: [(4 7 9)]
+Working on (10 4 7) Queue: [(1 8 3)]
+Working on (5 5 9) Queue: [(2 8 3)]
+Working on (9 5 4) Queue: []
+Statistics  Peak Hour: 8 Average Waiting Time: 3.5555556 Average Service Time: 5.2
+
+Time 9
+Remaining Tasks:
+
+Working on (3 7 6) Queue: []
+Working on (6 4 7) Queue: [(4 7 9)]
+Working on (10 4 7) Queue: [(1 8 3)]
+Working on (5 5 9) Queue: [(2 8 3)]
+Working on (7 9 8) Queue: []
+Statistics  Peak Hour: 8 Average Waiting Time: 4.0 Average Service Time: 4.428571
+
+Time 10
+Remaining Tasks:
+
+Working on (3 7 6) Queue: []
+Working on (6 4 7) Queue: [(4 7 9)]
+Working on (10 4 7) Queue: [(1 8 3)]
+Working on (5 5 9) Queue: [(2 8 3)]
+Working on (7 9 8) Queue: []
+Statistics  Peak Hour: 8 Average Waiting Time: 4.8 Average Service Time: 5.142857
+
